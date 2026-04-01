@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_MicroVectorEditor_FILE /Users/ritikraj/Desktop/Micro-Vector-Editor/build/MicroVectorEditor.app/Contents/MacOS/MicroVectorEditor)
-set(__QT_DEPLOY_TARGET_MicroVectorEditor_TYPE EXECUTABLE)
