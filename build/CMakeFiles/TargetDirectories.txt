@@ -1,0 +1,9 @@
+/Users/ritikraj/Desktop/Micro-Vector-Editor/build/CMakeFiles/MicroVectorEditor.dir
+/Users/ritikraj/Desktop/Micro-Vector-Editor/build/CMakeFiles/edit_cache.dir
+/Users/ritikraj/Desktop/Micro-Vector-Editor/build/CMakeFiles/rebuild_cache.dir
+/Users/ritikraj/Desktop/Micro-Vector-Editor/build/CMakeFiles/list_install_components.dir
+/Users/ritikraj/Desktop/Micro-Vector-Editor/build/CMakeFiles/install.dir
+/Users/ritikraj/Desktop/Micro-Vector-Editor/build/CMakeFiles/install/local.dir
+/Users/ritikraj/Desktop/Micro-Vector-Editor/build/CMakeFiles/install/strip.dir
+/Users/ritikraj/Desktop/Micro-Vector-Editor/build/CMakeFiles/MicroVectorEditor_autogen_timestamp_deps.dir
+/Users/ritikraj/Desktop/Micro-Vector-Editor/build/CMakeFiles/MicroVectorEditor_autogen.dir
